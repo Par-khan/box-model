@@ -1,0 +1,31 @@
+.one{
+    background-color: rosybrown;
+   max-width: 500px;
+    min-height: 100px;
+    padding: 20px;
+    border: 8px solid red;
+    box-sizing: border-box;
+    margin: 25px;
+    border-radius: 20px;
+}
+.two{
+  background-color:rgb(150, 150, 218);
+  max-width:400px;
+    min-height: 400px;
+    padding: 20px;
+    border: 8px solid red;
+    box-sizing: border-box;
+    margin: 25px;
+    border-radius: 100%;
+    overflow: hidden;
+    outline: 5px solid green;
+    
+
+}
+h1{
+  background-color: rgb(191, 107, 76);
+}
+img{
+  width: 125%;
+  margin: -43.5px;
+}
